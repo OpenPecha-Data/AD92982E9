@@ -1,0 +1,19 @@
+segment_sources:
+  PFB439426:
+    type: origin_type
+    relation: translation
+    language: en
+  PB35A1867:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  293bf1df965840a79588cadd213b4322:
+    PFB439426: 7bfcdea5481a4fb5a13f08f0af0a8cde
+    PB35A1867: a475b5b04489435eafa5f2c60bcfa627
+  828623c9a28c48a0a0608856792969b4:
+    PFB439426: 987758f30abb4df08e336b6b636ae83a
+    PB35A1867: b1c24be648b64414a5dda3c35e6cb865
+  034cd904df9c46e08f957cc0641f0dc6:
+    PFB439426: 98ebc8200fa6478b92313cbcd258ce75
+    PB35A1867: d298610632354ae985aa08682b23c22a
